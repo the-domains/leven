@@ -1,3 +1,4 @@
+layout_spectrum: 0.8415291351266205
 typography_spectrum: 0.8868845391552895
 color:
   brandStrength: 0.5217328621074557
@@ -10,6 +11,4 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-layout_spectrum: 0.8415291351266205
 name: LEVEN
-title: LEVEN
